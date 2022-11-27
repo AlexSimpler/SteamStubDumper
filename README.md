@@ -1,2 +1,2 @@
 # SteamStubDumper
-A steam stub dumper for the x86 steam stub variant v3.1.
+My unfinished research on a steam stub decryptor/dumper for an old x86 steam stub (v3.1).
